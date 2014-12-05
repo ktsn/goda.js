@@ -1,0 +1,19 @@
+{
+  "name": "goda.js",
+  "version": "4.0.0",
+  "authors": [
+    "katashin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pdf.js": "https://github.com/mozilla/pdf.js.git#1.0.277",
+    "jquery": "~2.1.1"
+  }
+}
